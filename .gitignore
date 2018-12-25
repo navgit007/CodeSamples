@@ -35,7 +35,7 @@ build/
 nbbuild/
 dist/
 nbdist/
-.nb-gradle/
+.nb-gradle/jj
 .metadata
 bin/
 tmp/
@@ -91,3 +91,5 @@ local.properties
 .cache-main
 .scala_dependencies
 .worksheet
+
+.DS_Store
