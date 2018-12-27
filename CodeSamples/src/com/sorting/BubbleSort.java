@@ -10,12 +10,9 @@ public class BubbleSort {
 
 		System.out.println("Before Sorting" + Arrays.toString(arr));
 		bubbleSort1(arr);
-
 		System.out.println("After Sorting" + Arrays.toString(arr));
-		
 		System.out.println("Before Sorting" + Arrays.toString(arr));
 		//bubbleSort(arr);
-
 		System.out.println("After Sorting" + Arrays.toString(arr));
 
 	}
