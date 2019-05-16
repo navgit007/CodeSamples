@@ -22,7 +22,7 @@ public class MagicSquare {
 		System.out.println("Final Value"+output);
 		
 	}
-
+       // Sum of rows ,colums, diagonal is equal
 	private static int magicSquare(int[][] matrix) {
 		
 		System.out.println("matrix.length=="+matrix.length);
