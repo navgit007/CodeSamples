@@ -16,7 +16,7 @@ public class BubbleSort {
 		System.out.println("After Sorting" + Arrays.toString(arr));
 
 	}
-// O(n2)
+// Time complexity :  O(n2)
 	private static void bubbleSort(int[] arr) {
 		int n = arr.length;
 		for (int i = 0; i < n; i++) {
